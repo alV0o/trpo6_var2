@@ -1,0 +1,6 @@
+@trpo6_var2_HostAddress = http://localhost:5022
+
+GET {{trpo6_var2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
