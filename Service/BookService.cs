@@ -23,12 +23,15 @@ namespace trpo6_var2.Service
 
         public void Add(Book book)
         {
-            books.Add(book);
+            _context.Books.Add(book);
+            Commit();
         }
 
         public BookService()
         {
             GetAll();
         }
+
+        public int Commit() => _context.SaveChanges();
     }
 }

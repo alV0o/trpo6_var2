@@ -169,3 +169,4 @@ C:\Voroshilov_pr41\trpo6_var2\obj\Debug\net8.0\refint\trpo6_var2.dll
 C:\Voroshilov_pr41\trpo6_var2\obj\Debug\net8.0\trpo6_var2.pdb
 C:\Voroshilov_pr41\trpo6_var2\obj\Debug\net8.0\trpo6_var2.genruntimeconfig.cache
 C:\Voroshilov_pr41\trpo6_var2\obj\Debug\net8.0\ref\trpo6_var2.dll
+C:\Voroshilov_pr41\trpo6_var2\obj\Debug\net8.0\trpo6_var2.sourcelink.json
