@@ -18,8 +18,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "book",
-        "Type": "trpo6_var2.Models.Book",
+        "Name": "bookDTO",
+        "Type": "trpo6_var2.BookDTO",
         "IsRequired": true
       }
     ],
@@ -55,8 +55,8 @@
         "IsRequired": true
       },
       {
-        "Name": "book",
-        "Type": "trpo6_var2.Models.Book",
+        "Name": "bookDTO",
+        "Type": "trpo6_var2.BookDTO",
         "IsRequired": true
       }
     ],
@@ -71,13 +71,13 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "json",
-        "Type": "System.String",
+        "Name": "id",
+        "Type": "System.Int32",
         "IsRequired": true
       },
       {
-        "Name": "id",
-        "Type": "",
+        "Name": "bookDTO",
+        "Type": "trpo6_var2.BookDTO",
         "IsRequired": true
       }
     ],

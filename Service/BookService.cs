@@ -27,6 +27,12 @@ namespace trpo6_var2.Service
             Commit();
         }
 
+        public void Delete(Book book)
+        {
+            _context.Books.Remove(book);
+            Commit();
+        }
+
         public BookService()
         {
             GetAll();
